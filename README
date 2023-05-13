@@ -1,0 +1,11 @@
+# La filosofía de Kant - una introducción a la filosofía
+
+**Manuel García Morente**
+
+Fuentes de la versión en epub del libro.
+
+Compilado con **pandoc**
+
+```
+make epub
+```

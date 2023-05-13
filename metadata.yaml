@@ -1,0 +1,17 @@
+---
+title:
+- type: main
+  text: La filosofía de Kant
+- type: subtitle
+  text: Una introducción a la filosofía
+creator:
+- role: author
+  text: Manuel García Morente
+publisher: Jall Vigo
+rights: ©2023 Jall Vigo, CC BY-NC
+ibooks:
+  version: 1.0.0
+stylesheet: book.css
+cover-image: cover.jpg
+...
+
